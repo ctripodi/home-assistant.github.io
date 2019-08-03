@@ -41,6 +41,7 @@ tuya:
   username: YOUR_TUYA_USERNAME
   password: YOUR_TUYA_PASSWORD
   country_code: YOUR_ACCOUNT_COUNTRYCODE
+  platform: 'smart_life' or 'tuya'
 ```
 
 {% configuration %}
